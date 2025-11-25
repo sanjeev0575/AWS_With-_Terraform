@@ -69,14 +69,3 @@ terraform -install-autocomplete
 alias tf=terraform
 terraform -version
 ```
-
-### Common Installation Error (macOS)
-If you encounter:
-```
-Error: No developer tools installed.
-```
-Install Command Line Tools:
-```bash
-xcode-select --install
-```
-
