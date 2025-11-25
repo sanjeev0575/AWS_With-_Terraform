@@ -80,5 +80,3 @@ Install Command Line Tools:
 xcode-select --install
 ```
 
-## Next Steps
-Proceed to Day 2 to learn about Terraform Providers and their importance in AWS infrastructure management.
