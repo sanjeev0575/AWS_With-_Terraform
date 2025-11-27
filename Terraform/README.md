@@ -60,3 +60,34 @@ terraform destroy -target=aws_instance.demo_ec2
 terraform destroy -target=aws_instance.demo_ec2 -target=aws_security_group.ec2_sg
 
 ```
+
+
+## terraform state list
+
+### List all resources in your state file.
+
+```
+
+terraform state list
+
+```
+
+## terraform state show
+
+### Show details of a resource in state.
+
+```
+
+terraform state show aws_instance.my_ec2
+
+```
+
+## terraform refresh (deprecated but still used sometimes)
+
+### Update state from real infrastructure.
+
+```
+
+terraform refresh
+
+```
