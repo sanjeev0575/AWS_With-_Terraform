@@ -91,3 +91,67 @@ terraform state show aws_instance.my_ec2
 terraform refresh
 
 ```
+
+## terraform import
+
+### Import an existing AWS resource into Terraform.
+
+```
+
+terraform import aws_s3_bucket.mybucket my-bucket-name
+
+```
+
+## terraform taint
+
+### Force recreate a resource.
+
+```
+
+terraform taint aws_instance.my_ec2
+
+```
+
+Untaint
+
+```
+
+terraform untaint aws_instance.my_ec2
+
+```
+
+## terraform graph
+
+### Generate graph of Terraform resources.
+
+```
+
+terraform graph
+
+```
+
+## Manage multiple environments (dev, qa, prod).
+
+Create 
+
+```
+
+terraform workspace new dev
+
+```
+
+List 
+
+```
+
+terraform workspace list
+
+```
+
+select
+
+```
+
+terraform workspace select dev
+
+```
