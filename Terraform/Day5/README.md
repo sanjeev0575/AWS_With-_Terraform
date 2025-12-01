@@ -1,4 +1,4 @@
-# Day 5/28 - Terraform Variables Demo
+#  Terraform Variables 
 
 A simple demo showing the three types of Terraform variables using a basic S3 bucket.
 
