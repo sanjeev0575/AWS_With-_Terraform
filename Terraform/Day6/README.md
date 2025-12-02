@@ -1,4 +1,4 @@
-# Day 6: File Structure
+# File Structure
 
 ## Topics Covered
 - Terraform file organization
