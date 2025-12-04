@@ -21,7 +21,7 @@ variable "instance_type" {
 variable "instance_count" {
     type = number
     description = "the number of ec2 instances to create"
-    default = 1
+    #default = 1
 }
 
 variable "storage_size" {
