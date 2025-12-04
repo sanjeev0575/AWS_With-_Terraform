@@ -23,7 +23,6 @@ day08/
 ├── backend.tf       # S3 backend configuration
 ├── main.tf          # Main resource definitions with count and for_each examples
 ├── output.tf        # Output values demonstrating for loops
-├── task.md          # Hands-on exercises and tasks
 └── README.md        # This file
 
 
