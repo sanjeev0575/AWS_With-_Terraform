@@ -1,5 +1,8 @@
 # Terraform Lifecycle Meta-arguments (AWS)
 
+In Terraform, lifecycle rules allow you to control how Terraform creates, updates, or deletes resources.
+They don’t change the resource itself — they only change Terraform’s behavior.
+
 ## 📚 Topics Covered
 - `create_before_destroy` - Zero-downtime deployments
 - `prevent_destroy` - Protect critical resources
