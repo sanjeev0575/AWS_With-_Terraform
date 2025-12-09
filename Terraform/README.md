@@ -158,11 +158,11 @@ terraform workspace select dev
 
 ## terraform plan | grep 
 
-#terraform plan shows all the changes Terraform will make.
+terraform plan shows all the changes Terraform will make.
 
-#| (pipe) sends the output to grep.
+| (pipe) sends the output to grep.
 
-#grep filters only the lines you want to see.
+grep filters only the lines you want to see.
 
 ```
 
