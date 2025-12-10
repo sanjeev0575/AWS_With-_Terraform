@@ -168,4 +168,6 @@ grep filters only the lines you want to see.
 
 terraform plan | grep 'Create'
 
+terraform plan | grep "instance_type"
+
 ```
