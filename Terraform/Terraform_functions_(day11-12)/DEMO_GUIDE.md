@@ -1,4 +1,4 @@
-# Terraform Functions Demo Guide - Day 11-12
+# Terraform Functions Demo Guide 
 
 ## Overview
 This guide provides step-by-step instructions for demonstrating Terraform built-in functions through 12 hands-on assignments. Each assignment focuses on specific functions and can be tested independently by commenting/uncommenting code blocks.
