@@ -198,7 +198,7 @@ After completing all assignments:
 - ✅ Understand all function categories
 - ✅ Know when to use each function
 - ✅ Comfortable with terraform console
-- ✅ Ready for **Day 13**: Terraform Workspaces
+
 
 ---
 
