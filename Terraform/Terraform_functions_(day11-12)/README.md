@@ -1,5 +1,4 @@
-# Terraform Functions Learning Guide - AWS Edition (Day 11-12)
-
+# Terraform Functions Learning Guide 
 ## 📚 Overview
 
 Welcome to the Terraform Functions comprehensive learning guide! This two-day module covers Terraform's built-in functions through 12 hands-on assignments. Each assignment focuses on specific functions and real-world use cases.
