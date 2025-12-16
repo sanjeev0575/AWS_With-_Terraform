@@ -171,3 +171,21 @@ terraform plan | grep 'Create'
 terraform plan | grep "instance_type"
 
 ```
+
+## terraform output 
+
+Displays all outputs for the root module in a human-readable format. Sensitive outputs are displayed as
+
+```
+
+terraform output
+
+```
+
+Displays only the value of a specific output named <NAME>. This command will display sensitive values in plaintext.
+
+```
+
+terraform output <NAME>
+
+```
