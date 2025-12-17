@@ -35,24 +35,6 @@ chomp("hello\n")
 reverse(["a", "b", "c"])
 ```
 
-## 📋 Assignments Overview
-
-| # | Assignment | Functions | Difficulty | AWS Resources |
-|---|------------|-----------|------------|---------------|
-| 1 | Project Naming | `lower`, `replace` | ⭐ | Resource Group |
-| 2 | Resource Tagging | `merge` | ⭐ | VPC |
-| 3 | S3 Bucket Naming | `substr`, `replace`, `lower` | ⭐⭐ | S3 Bucket |
-| 4 | Security Group Ports | `split`, `join`, `for` | ⭐⭐ | Security Group |
-| 5 | Environment Lookup | `lookup` | ⭐⭐ | EC2 Instance |
-| 6 | Instance Validation | `length`, `can`, `regex` | ⭐⭐⭐ | EC2 Instance |
-| 7 | Backup Configuration | `endswith`, `sensitive` | ⭐⭐ | None |
-| 8 | File Path Processing | `fileexists`, `dirname` | ⭐⭐ | None |
-| 9 | Location Management | `toset`, `concat` | ⭐ | None |
-| 10 | Cost Calculation | `abs`, `max`, `sum` | ⭐⭐ | None |
-| 11 | Timestamp Management | `timestamp`, `formatdate` | ⭐⭐ | S3 Bucket |
-| 12 | File Content Handling | `file`, `jsondecode` | ⭐⭐⭐ | Secrets Manager |
-
----
 
 ## 🚀 Quick Start
 
@@ -193,14 +175,3 @@ Read JSON config and store in Secrets Manager
 
 ---
 
-## 🚀 Next Steps
-
-After completing all assignments:
-- ✅ Understand all function categories
-- ✅ Know when to use each function
-- ✅ Comfortable with terraform console
-
-
----
-
-**Happy Learning! 🎉**
