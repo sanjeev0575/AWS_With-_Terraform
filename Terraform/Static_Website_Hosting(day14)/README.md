@@ -125,6 +125,13 @@ After completing this project, you should understand:
 - [AWS S3 Static Website Hosting Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 - [CloudFront Documentation](https://docs.aws.amazon.com/cloudfront/)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+-  https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket_public_access_block
+-  https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudfront_origin_access_control
+
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket_policy
+- https://awspolicygen.s3.amazonaws.com/policygen.html
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_object
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudfront_distribution
 
 ## 🎉 Next Steps
 
