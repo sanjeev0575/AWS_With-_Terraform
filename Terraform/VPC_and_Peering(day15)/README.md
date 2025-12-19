@@ -1,4 +1,4 @@
-# Day 15: VPC and Peering (Mini Project 2)
+# VPC and Peering (Mini Project 2)
 
 ## Overview
 This demo showcases **AWS VPC Peering** by creating two VPCs in different AWS regions and establishing a peering connection between them. This allows resources in both VPCs to communicate with each other using private IP addresses.
@@ -78,10 +78,6 @@ chmod 400 vpc-peering-demo.pem
 
 ## Setup Instructions
 
-### 1. Clone and Navigate
-```bash
-cd lessons/day15
-```
 
 ### 2. Configure Variables
 Copy the example tfvars file and update it:
