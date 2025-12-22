@@ -305,6 +305,9 @@ terraform state show aws_iam_user.users[\"Michael\"]
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [Terraform Functions](https://www.terraform.io/language/functions)
 - [Complete Demo Guide](./DEMO_GUIDE.md)
+- [csvdecode Function] (https://developer.hashicorp.com/terraform/language/functions/csvdecode)
+- [aws_caller_identity] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/caller_identity)
+- [aws_iam_user] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_user)
 
 ## Success! ✅
 
