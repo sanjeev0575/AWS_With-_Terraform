@@ -308,6 +308,7 @@ terraform state show aws_iam_user.users[\"Michael\"]
 - [csvdecode Function] (https://developer.hashicorp.com/terraform/language/functions/csvdecode)
 - [aws_caller_identity] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/caller_identity)
 - [aws_iam_user] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_user)
+- [AWS IAM user login] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_user_login_profile)
 
 ## Success! ✅
 
