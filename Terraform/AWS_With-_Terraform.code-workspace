@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../Git_Commands"
+		},
+		{
+			"path": "../../DevOps_Installation_tools"
 		}
 	],
 	"settings": {}

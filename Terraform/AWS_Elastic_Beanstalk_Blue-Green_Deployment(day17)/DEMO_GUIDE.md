@@ -188,3 +188,11 @@ terraform output
 Use this space for your personal notes during the demo:
 
 ---
+
+## Reference_url
+
+[aws_elastic_beanstalk_application_version] - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/elastic_beanstalk_application_version
+
+[aws_elastic_beanstalk_environment] - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/elastic_beanstalk_environment
+
+[aws_iam_role] - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role
