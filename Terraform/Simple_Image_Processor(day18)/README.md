@@ -186,4 +186,4 @@ variants['your_variant'].save(buffer, format='JPEG', quality=75)
 ## Reference Url's
 
 - [Random id] - https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/id
-- [aws_lambda_layer_version] - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/lambda_layer_version
+- [aws_lambda_layer_version] - [text](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/lambda_layer_version)
