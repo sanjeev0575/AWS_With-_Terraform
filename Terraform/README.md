@@ -21,6 +21,27 @@ terraform validate
 terraform fmt
 
 ```
+
+# Formats all files in the current and nested directories, modifying them in place.
+
+```
+terraform fmt -recursive
+```
+
+# Checks if all files are properly formatted. It will return a non-zero exit status and list of improperly formatted files if any issues are found, which is ideal for use in CI/CD pipelines.
+
+```
+
+terraform fmt -recursive -check
+
+```
+
+# Displays the differences between the original and the formatted files without writing the changes to disk. 
+
+```
+terraform fmt -recursive -diff
+
+```
 ### terraform plan
 
 ```
